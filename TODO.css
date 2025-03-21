@@ -1,0 +1,21 @@
+#add_btn{
+    background-color: rgb(96, 151, 182);
+}
+
+#enter_task{
+    background-color: rgb(203, 194, 194);
+}
+
+#dlt_btn{
+    background-color: rgb(154, 140, 140);
+    margin-left: 3%;
+    border-radius: 5rem;
+}
+
+ul li{
+   padding-top: 1rem;
+}
+
+body{
+    background-color: rgb(176, 167, 167);
+}
